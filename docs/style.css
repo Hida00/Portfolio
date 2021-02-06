@@ -3,12 +3,13 @@
     padding: 2% 0px;
     text-align: center;
     background-color: lightblue;
+    float: none;
 }
 .Introduction {
     font-size: 130%;
     padding-left: 10%;
     line-height: 1em;
 }
-#twitter {
+#element {
     text-indent: 1em;
 }
