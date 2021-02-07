@@ -12,4 +12,8 @@
 }
 #element {
     text-indent: 1em;
+    font-size: 120%;
+}
+#elementTitle{
+    font-size: 120%;
 }
