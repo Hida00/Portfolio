@@ -1,19 +1,24 @@
 .portfolio {
-    font-size: 130%;
+    font-size: 160%;
     padding: 2% 0px;
     text-align: center;
     background-color: lightblue;
     float: none;
 }
 .Introduction {
-    font-size: 130%;
-    padding-left: 10%;
+    font-size: 120%;
+    padding-left: 5%;
     line-height: 1em;
 }
+.under{
+    padding: 0px 3%;
+    border-bottom: solid 3px #87CEFA;
+}
 #element {
-    text-indent: 1em;
+    text-indent: 3em;
     font-size: 120%;
 }
 #elementTitle{
-    font-size: 120%;
+    font-weight: 3%;
+    font-size: 160%;
 }
